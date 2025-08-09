@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdullah Sameh</h1>
 <h3 align="center">💻 Full Stack Developer | Laravel, Node.js, Vue.js, React | Building Scalable Web Apps</h3>
 
----
+
 
 ## 🚀 About Me
 - 🎯 Passionate about helping investors, SaaS founders, startups, and small teams bring their visions to life by launching robust, **high-performance web applications** that drive success and innovation.
 - 🛠 Specialized in **Laravel**, **Vue.js | Nuxt.js**, **React | Next.js**, and **TailwindCSS**.
 - 📚 Always learning and exploring **new technologies**.
 
----
+
 
 ## 📫 Connect With Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201113509117)
@@ -17,7 +17,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abdullah_Sameh)
 [![Phone](https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=phone&logoColor=white)](tel:+201091883835)
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -62,39 +62,39 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+
 
 ## 📂 Featured Projects
 
 ### 🌟 [SmartPodium](https://smartpodium.org)
 > **Tech:** Laravel, Vue.js, Bootstrap, MySQL  
-A full-stack web app for managing event registrations and live Zoom webinars. My first real-world project, built with Laravel for the backend and Vue.js for the frontend, delivering a seamless user experience.
+A full-stack web app for managing event registrations and live Zoom webinars. My first real-world project, built with Laravel for the backend and Vue.js for the frontend, delivered a seamless user experience.
 
----
+
 
 ### 🌟 [Asparagus](https://asparagus.ae)
 > **Tech:** Laravel, Vue.js, TailwindCSS, MySQL  
-A full-stack web app for a restaurant business. One of my Upwork projects, built with Laravel for the backend and Blade & Vue.js for the frontend. Although the restaurant later worked with another tech company,I didn't know why, but my Upwork client was a broker. I remain proud of my work on this project.
+A full-stack web app for a restaurant business. One of my Upwork projects, built with Laravel for the backend and Blade & Vue.js for the frontend. Although the restaurant later worked with another tech company, I didn't know why, but my Upwork client was a broker. I remain proud of my work on this project.
 
----
+
 
 ### 🌟 [Injaz Edu](https://injazedu.co)
 > **Tech:** Laravel, Vue.js, TailwindCSS, MySQL  
 An education platform for managing courses and subscriptions. An ongoing project started with my friends, built with Laravel and Vue.js to ensure a seamless learning experience.
 
----
+
 
 ### 🌟 [Quiz App](https://github.com/AbdullahSameh/quiz-app)
 > **Tech:** React, TypeScript, TailwindCSS, PostgreSQL  
 A simple quiz app allowing users to take quizzes and view results. Publicly available on GitHub, showcasing my skills in React and TypeScript. Continuously updated with new features and improvements.
 
----
+
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSameh&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahSameh&theme=radical)
 
----
+
 
 ## 📜 Certificates & Achievements
 - 🏆 [Programming for Data Science – Udacity](https://www.udacity.com/certificate/e/a88e98fa-bf99-11e9-bcf2-576828a68c09)
